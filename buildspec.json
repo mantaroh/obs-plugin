@@ -33,15 +33,15 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.obs-plugintemplate"
+            "bundleId": "com.example.obs-plugin-browse-loccal"
         }
     },
-    "name": "obs-plugintemplate",
-    "displayName": "OBS Plugin Template",
+    "name": "obs-plugin-browse-local",
+    "displayName": "OBS Plugin for browsing local host",
     "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com",
+    "author": "Mantaroh YOSHINAGA",
+    "website": "https://mantaroh.org",
+    "email": "mantaroh@mantaroh.org",
     "uuids": {
         "windowsApp": "00000000-0000-0000-0000-000000000000"
     }
